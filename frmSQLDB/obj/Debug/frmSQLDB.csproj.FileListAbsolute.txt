@@ -1,0 +1,10 @@
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\bin\Debug\frmSQLDB.exe.config
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\bin\Debug\frmSQLDB.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\bin\Debug\frmSQLDB.pdb
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.csprojAssemblyReference.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.Form1.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.Properties.Resources.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.csproj.GenerateResource.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.csproj.CoreCompileInputs.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSQLDB\obj\Debug\frmSQLDB.pdb

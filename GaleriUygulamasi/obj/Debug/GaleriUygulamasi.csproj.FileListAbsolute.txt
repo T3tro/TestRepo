@@ -1,0 +1,10 @@
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\bin\Debug\GaleriUygulamasi.exe.config
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\bin\Debug\GaleriUygulamasi.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\bin\Debug\GaleriUygulamasi.pdb
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.csprojAssemblyReference.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.Form1.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.Properties.Resources.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.csproj.GenerateResource.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\GaleriUygulamasi\obj\Debug\GaleriUygulamasi.pdb

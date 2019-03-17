@@ -1,0 +1,10 @@
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\bin\Debug\frmSqlBrowserGelistirme.exe.config
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\bin\Debug\frmSqlBrowserGelistirme.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\bin\Debug\frmSqlBrowserGelistirme.pdb
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.csprojAssemblyReference.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.Form1.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.Properties.Resources.resources
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.csproj.GenerateResource.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.csproj.CoreCompileInputs.cache
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.exe
+C:\Users\Xenol\YazilimDenemeleri\YazilimDenemeleri\frmSqlBrowserGelistirme\obj\Debug\frmSqlBrowserGelistirme.pdb
